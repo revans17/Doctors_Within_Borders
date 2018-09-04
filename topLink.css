@@ -1,0 +1,30 @@
+@charset "UTF-8";
+background {
+	color: #474747;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	background-color: #66D4E8;
+	width: auto;
+	height: auto;
+}
+.foooter1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #66D4E8;
+	background-color: #505050;
+	text-align: left;
+	width: 100%;
+	height: auto;
+	border: thin solid #505050;
+}
+photo1 {
+}
+newfooter {
+	background-color: #505050;
+	color: #66D4E8;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	text-align: center;
+	border-color: #505050;
+}
